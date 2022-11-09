@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iollmann
 - 👀 I’m interested in SIMD vectorization and gaming tools
 - 🌱 I’m currently learning Swift, though not really trying hard. C family languages are good enough.
-- 💞️ I’m looking to collaborate on some fun pencil and paper gaming activity
+- 💞️ I’m looking to collaborate on some fun pencil and paper gaming programming activity
 - 📫 How to reach me iollmann@me.com
 
 <!---
